@@ -2,17 +2,17 @@
   "posts": [
     {
       "id": 1,
-      "username: "pbfan",
+      "username": "popstar",
       "password": "helloworld"
     },
     {
       "id": 2,
-      "username: "bbking",
+      "username": "bbking",
       "password": "123321"
     },
     {
       "id": 3,
-      "username: "kurt",
+      "username": "kurt",
       "password": "bluesky123321"
     },
   ],
