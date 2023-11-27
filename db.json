@@ -78,6 +78,7 @@
 	"profile": {
 		"id": 2,
 		"username": "Certificate",
-		"image_url": "Li4vLi4vYXNzZXRzL2ltZy9jZXJ0LmpwZw=="
+		"image_url_base64": "Li4vLi4vYXNzZXRzL2ltZy9jZXJ0LmpwZw==",
+		"image_url": "../../assets/img/cert.jpg"
 	}
 }
