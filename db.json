@@ -79,7 +79,7 @@
 		"id": 1,
 		"username": "Certificate",
 		"image_url_base64": "Li4vLi4vYXNzZXRzL2ltZy9jZXJ0LmpwZw==",
-		"image_url": "../../assets/img/cert.jpg"
+		"image_url": "@/assets/img/cert.jpg"
 	},
 		{
 		"id": 2,
