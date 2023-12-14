@@ -261,24 +261,6 @@
                 "updateTime": "2023-12-05 14:24:21",
                 "userId": "27652",
                 "userName": "ceshi2"
-            },
-            {
-                "createTime": "2023-12-05 14:24:13",
-                "imgUrl": "/file/productImg/9d62646b758749bda30f4c5ec141a1c6218069.jpg",
-                "income": "75",
-                "isDd": true,
-                "isInternalAccount": false,
-                "isSettlement": true,
-                "orderNumber": "TK_20231251424137189042",
-                "orderRecordsId": "52017",
-                "price": "15000",
-                "productId": "111",
-                "status": "submission",
-                "taskRound": "6",
-                "title": "Medal.tv",
-                "updateTime": "2023-12-05 14:24:15",
-                "userId": "27652",
-                "userName": "ceshi2"
-            },
+            }
         ]
 }
