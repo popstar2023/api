@@ -48,31 +48,6 @@
 			"id": 10,
 			"username": "Personal Info",
 			"password": "bluesky123321"
-		},
-		{
-			"id": 11,
-			"username": "Change login password",
-			"password": "bluesky123321"
-		},
-		{
-			"id": 12,
-			"username": "Change payment password",
-			"password": "bluesky123321"
-		},
-		{
-			"id": 13,
-			"username": "Full Name",
-			"password": "bluesky123321"
-		},
-		{
-			"id": 14,
-			"username": "Phone",
-			"password": "bluesky123321"
-		},
-		{
-			"id": 15,
-			"username": "Transaction",
-			"password": "bluesky123321"
 		}
 	],
 	"profile": [{
