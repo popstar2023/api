@@ -63,6 +63,17 @@
 		"image_url": "https://job-space.cc/file/productImg/01cf2c4aaf1c4d2d91e1b00cb2f023aa70559.jpg"
 	}	
 	],
+	"certificate": [{
+		"id": 1,
+		"startTime": "2024-06-06T13:00:00+08:00",
+		"alidityPeriod": "30"
+	},
+		{
+		"id": 2,
+		"startTime": "2024-06-06T13:00:00+08:00",
+		"alidityPeriod": "1"
+	}	
+	],
 	"list": [
             {
                 "createTime": "2023-12-05 14:26:16",
