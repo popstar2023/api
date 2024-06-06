@@ -66,12 +66,12 @@
 	"certificate": [{
 		"id": 1,
 		"startTime": "2024-06-06T13:00:00+08:00",
-		"alidityPeriod": "30"
+		"validityPeriod": "30"
 	},
 		{
 		"id": 2,
 		"startTime": "2024-06-06T13:00:00+08:00",
-		"alidityPeriod": "1"
+		"validityPeriod": "1"
 	}	
 	],
 	"list": [
