@@ -66,12 +66,14 @@
 	"certificate": [{
 		"id": 1,
 		"startTime": "2024-06-06T13:00:00+08:00",
-		"validityPeriod": "30"
+		"validityPeriod": "30",
+		"sn": "DNQVN9Q8JCLF"
 	},
 		{
 		"id": 2,
 		"startTime": "2024-06-06T13:00:00+08:00",
 		"validityPeriod": "1"
+		"sn": "DNQVN9Q8JCLF"
 	}	
 	],
 	"list": [
